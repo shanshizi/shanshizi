@@ -4,7 +4,7 @@
 
 🇨🇳 Hangzhou,China・🕹Web developer
 
-https://shanshizi.cn
+email: 531894107@qq.com
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
