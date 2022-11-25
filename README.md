@@ -6,8 +6,6 @@
 
 https://shanshizi.cn
 
-技术栈
- 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Django-192133?style=flat-square&logo=figma&logoColor=white)
 ![Php](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
