@@ -1,17 +1,18 @@
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
 <p align="center">
    
-  <h3 align="center">Hi,I’m shanshizi</h3>
+  <h2 align="center">Hi,I’m shanshizi</h2>
 
-  <p align="center">🇨🇳 Hangzhou,China</p>
+  <h2 align="center">🇨🇳 Hangzhou,China</h2>
 
-  <p align="center">🕹Web,App,Desktop,Miniprogram developer</p>
+  <h2 align="center">🕹Web,App,Desktop,Miniprogram developer</h2>
 
-  <p align="center">email: 531894107@qq.com</p>
+  <h2 align="center">email: 531894107@qq.com</h2>
   
 </p>
+
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
