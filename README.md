@@ -21,7 +21,7 @@
 <p>🕹Web,App,Desktop,Miniprogram developer</p>
 <p>email: 531894107@qq.com</p>
 
-<p align="center">
+<p width="100%" align="center">
   
   <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
   
