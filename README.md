@@ -2,7 +2,9 @@
 
 ### Hi, I’m @shanshizi
 
-🇨🇳 Hangzhou,China 🕹Web,App,Desktop,Miniprogram developer
+🇨🇳 Hangzhou,China
+
+🕹Web,App,Desktop,Miniprogram developer
 
 email: 531894107@qq.com
 
