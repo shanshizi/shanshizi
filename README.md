@@ -6,11 +6,20 @@
 
 email: 531894107@qq.com
 
+![c]
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
 ![Php](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-192133?style=flat-square&logo=figma&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-192133?style=flat-square&logo=redis&logoColor=white)
+
+<!---
+![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
+![Php](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-192133?style=flat-square&logo=figma&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-192133?style=flat-square&logo=redis&logoColor=white)
+--->
 
 <!---
 shanshizi/shanshizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
