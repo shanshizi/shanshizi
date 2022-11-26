@@ -6,17 +6,6 @@
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">
-  
-  <p>Hi,I’m shanshizi</p>
-
-  <p>🇨🇳 Hangzhou,China</p>
-
-  <p>🕹Web,App,Desktop,Miniprogram developer</p>
-
-  <p>email: 531894107@qq.com</p>
-  
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-00599C?style=flat-square&logo=Javascript"/>
   <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java"/>
@@ -26,6 +15,19 @@
   <img src="https://img.shields.io/badge/-Pascal-563D7C?style=flat-square&logo=Pascal"/>
   <img src="https://img.shields.io/badge/-Golang-430098?style=flat-square&logo=Golang"/>
  </p>
+ 
+<p align="center">
+  
+  <p align="center">Hi,I’m shanshizi</p>
+
+  <p align="center">🇨🇳 Hangzhou,China</p>
+
+  <p align="center">🕹Web,App,Desktop,Miniprogram developer</p>
+
+  <p align="center">email: 531894107@qq.com</p>
+  
+</p>
+
  
 
 <!---
