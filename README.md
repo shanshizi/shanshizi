@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-Golang-430098?style=flat-square&logo=Golang"/>  
 </p>
  
-<p align="center">
+<p align="left">
   <p align="left">
    
    <h2 align="center">Hi,I’m shanshizi</h2>
