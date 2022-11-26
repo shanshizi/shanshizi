@@ -32,16 +32,12 @@
   <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=shanshizi&theme=redical">
 </p>
 
-<p>
-  
+<p align="center">
   <img align="left" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanshizi&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
- 
 </p>
 
 <p>
-   
   <img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=shanshizi&show_icons=true&theme=tokyonight&line_height=27">
-
 </p>
 
 <!---
