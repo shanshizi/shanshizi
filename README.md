@@ -12,6 +12,7 @@ email: 531894107@qq.com
 ![Php](https://img.shields.io/badge/-PHP-192133?style=flat-square&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-192133?style=flat-square&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-192133?style=flat-square&logoColor=white)
+![Pascal](https://img.shields.io/badge/-Pascal-192133?style=flat-square&logoColor=white)
 
 <!---
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
