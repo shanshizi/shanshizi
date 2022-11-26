@@ -1,3 +1,8 @@
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=shanshizi&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical">
+</p>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shanshizi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi, I’m @shanshizi
@@ -15,9 +20,6 @@ email: 531894107@qq.com
 ![Javascript](https://img.shields.io/badge/-Javascript-192133?style=flat-square&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-192133?style=flat-square&logoColor=white)
 ![Pascal](https://img.shields.io/badge/-Pascal-192133?style=flat-square&logoColor=white)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend&layout=compact">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend">
 
 <!---
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
