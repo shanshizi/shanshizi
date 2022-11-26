@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-Golang-430098?style=flat-square&logo=Golang"/>  
 </p>
  
-<div align="center">
+<div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
 
   <p>Hi,I’m shanshizi</p>
@@ -22,6 +22,10 @@
   <p>email: 531894107@qq.com</p>
 
 </div>
+
+<div width="100%" height="100px;">
+
+</div> 
 
 <div align="center">
   <h2>Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
