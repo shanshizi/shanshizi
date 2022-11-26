@@ -29,10 +29,10 @@
 
   
 <p align="center">
-  <img width="10%0" src="https://activity-graph.herokuapp.com/graph?username=shanshizi&theme=redical">
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=shanshizi&theme=redical">
 </p>
 
-<p align="center">
+<p>
   
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanshizi&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
   
