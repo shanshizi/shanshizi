@@ -49,7 +49,13 @@
   <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=shanshizi&show_icons=true&theme=tokyonight&line_height=27">
 </p>
 
-<!---
+<p align="center">
+  
+  <img src="http://m.qpic.cn/psc?/V51sw0hi0gjTBx1iTcdu36kZNy3VDA7s/bqQfVz5yrrGYSXMvKr.cqR*psRxs5E.ZZXECws1L3zG7dBRGSpZTSgyaqVfMDHC8VUjiaYG2K8*Zw6PtrOsWCLtdF6LSBXRS93ZUfA8gPhE!/b&bo=tgMPBQAAAAADB50!&rf=viewer_4" />  
+
+</p>
+
+ <!---
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
 ![Php](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
