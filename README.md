@@ -23,7 +23,7 @@
 
 </div>
 
-<div width="100%" height="100px;">
+<div width="100%" height="100">
 
 </div> 
 
