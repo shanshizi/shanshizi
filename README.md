@@ -14,18 +14,12 @@
 </p>
  
 <p align="left">
-  <p align="left">
-   
-   <h2 align="center">Hi,I’m shanshizi</h2>
-
-   <h2 align="center">🇨🇳 Hangzhou,China</h2>
-
-   <h2 align="center">🕹Web,App,Desktop,Miniprogram developer</h2>
-
-   <h2 align="center">email: 531894107@qq.com</h2>
+  <p align="center">Hi,I’m shanshizi</p>
+  <p align="center">🇨🇳 Hangzhou,China</p>
+  <p align="center">🕹Web,App,Desktop,Miniprogram developer</p>
+  <p align="center">email: 531894107@qq.com</p>
   
-   </p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
 </p>
 
 <p align="center">
