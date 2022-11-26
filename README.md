@@ -14,6 +14,9 @@
 
   email: 531894107@qq.com
 
+  
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
@@ -21,8 +24,8 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
   <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-</p>
-
+ </p>
+ 
 ![c](https://img.shields.io/badge/-C-192133?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logoColor=white)
