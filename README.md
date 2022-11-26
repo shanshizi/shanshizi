@@ -17,7 +17,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
 
   <h3>Hi,I’m shanshizi</h3>
-  <h3>🇨🇳 Hangzhou,China</h3>
+  <h3>🇨🇳Hangzhou-China</h3>
   <h3>🕹Web,App,Desktop,Miniprogram developer</h3>
   <h3>email: 531894107@qq.com</h3>
 
