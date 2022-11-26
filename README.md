@@ -19,7 +19,7 @@
   <h3>Hi,I’m shanshizi</h3>
   <h3>🇨🇳Hangzhou-China</h3>
   <h3>🕹Web,App,Desktop,Miniprogram developer</h3>
-  <h3>email: 531894107@qq.com</h3>
+  <h3>Email: 531894107@qq.com</h3>
 
 </div>
 
