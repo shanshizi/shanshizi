@@ -16,6 +16,8 @@ email: 531894107@qq.com
 ![Golang](https://img.shields.io/badge/-Golang-192133?style=flat-square&logoColor=white)
 ![Pascal](https://img.shields.io/badge/-Pascal-192133?style=flat-square&logoColor=white)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend">
+
 <!---
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
