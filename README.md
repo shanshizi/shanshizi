@@ -14,7 +14,7 @@
 </p>
  
 <p align="center">
-  <p width="50%" align="left">
+  <p align="left">
    
    <h2 align="center">Hi,I’m shanshizi</h2>
 
@@ -25,7 +25,7 @@
    <h2 align="center">email: 531894107@qq.com</h2>
   
    </p>
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
 </p>
 
 <p align="center">
