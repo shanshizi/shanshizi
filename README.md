@@ -10,10 +10,12 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/-Pascal-563D7C?style=flat-square&logo=Pascal"/>
   <img src="https://img.shields.io/badge/-Golang-430098?style=flat-square&logo=Golang"/>
- </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
+  
+</p>
  
 <p align="center">
-  
+   
   <p align="center">Hi,I’m shanshizi</p>
 
   <p align="center">🇨🇳 Hangzhou,China</p>
@@ -28,7 +30,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=shanshizi&show_icons=true&theme=tokyonight&line_height=27">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
   
 </p>
  
