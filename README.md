@@ -1,16 +1,4 @@
 
-<p align="center">
-   
-  <h2 align="center">Hi,I’m shanshizi</h2>
-
-  <h2 align="center">🇨🇳 Hangzhou,China</h2>
-
-  <h2 align="center">🕹Web,App,Desktop,Miniprogram developer</h2>
-
-  <h2 align="center">email: 531894107@qq.com</h2>
-  
-</p>
-
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
@@ -26,7 +14,18 @@
 </p>
  
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
+  <p width="50%" align="left">
+   
+   <h2 align="center">Hi,I’m shanshizi</h2>
+
+   <h2 align="center">🇨🇳 Hangzhou,China</h2>
+
+   <h2 align="center">🕹Web,App,Desktop,Miniprogram developer</h2>
+
+   <h2 align="center">email: 531894107@qq.com</h2>
+  
+   </p>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
 </p>
 
 <p align="center">
