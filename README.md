@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-Golang-430098?style=flat-square&logo=Golang"/>  
 </p>
  
-<div>
+<div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
 
   <p>Hi,I’m shanshizi</p>
