@@ -13,7 +13,7 @@
 </p>
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
 </p>
 
 <p align="center">
@@ -41,9 +41,9 @@
 
 <p align="center">
   
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanshizi&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanshizi&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
   
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shanshizi&show_icons=true&theme=tokyonight&line_height=27">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=shanshizi&show_icons=true&theme=tokyonight&line_height=27">
 
 </p>
 
