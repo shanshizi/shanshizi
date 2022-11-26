@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-<img src="https://img-blog.csdnimg.cn/b3a5f9a4bad84b20bcdd173903c57e15.png" />
+<img width="300" height="300" src="https://img-blog.csdnimg.cn/b3a5f9a4bad84b20bcdd173903c57e15.png" />
 </p>
 
 
