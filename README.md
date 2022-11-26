@@ -26,9 +26,13 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=shanshizi&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact ">
 </p>
  
+
+<p align="center">
+  <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<p align="center">
 
 <!---
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
