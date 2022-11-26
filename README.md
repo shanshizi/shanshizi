@@ -39,6 +39,15 @@
   
 <p align="center">
 
+  
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=shanshizi&theme=redical">
+</p>
+
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanshizi&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
+
 <!---
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=figma&logoColor=white)
