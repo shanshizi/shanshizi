@@ -13,12 +13,13 @@
   <img src="https://img.shields.io/badge/-Golang-430098?style=flat-square&logo=Golang"/>  
 </p>
  
+ 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
+
 <p>Hi,I’m shanshizi</p>
 <p>🇨🇳 Hangzhou,China</p>
 <p>🕹Web,App,Desktop,Miniprogram developer</p>
 <p>email: 531894107@qq.com</p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
 
 <p align="center">
   
