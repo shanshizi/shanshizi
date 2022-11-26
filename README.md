@@ -18,7 +18,7 @@ Hi,I’m shanshizi
 🕹Web,App,Desktop,Miniprogram developer
 email: 531894107@qq.com
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanshizi&theme=radical&layout=compact">
 
 <p align="center">
   
