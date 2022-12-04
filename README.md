@@ -49,10 +49,6 @@
   <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=shanshizi&show_icons=true&theme=tokyonight&line_height=27">
 </p>
 
-<p align="center">
-<img width="300" height="300" src="https://img-blog.csdnimg.cn/b3a5f9a4bad84b20bcdd173903c57e15.png" />
-</p>
-
 
  <!---
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
